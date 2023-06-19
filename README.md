@@ -12,9 +12,5 @@ Hi there! I'm a full-stack web developer who loves coding, programming, and work
 <hr />
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=mzusin&show_icons=true&theme=gotham" alt="mzusin" />
-</p>
-
-<p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mzusin&" alt="mzusin" />
 </p>
